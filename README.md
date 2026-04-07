@@ -1,8 +1,4 @@
-![Header](./github-header-banner(1).png)
-
-###
-
-<h1 align="center"> :computer: Lucas Calado </h1>
+<img src="github-header-banner (1).png">
 
 ###
 
