@@ -1,4 +1,4 @@
-<h1 align="center"> Lucas Calado </h1>
+<h1 align="center"> :computer: Lucas Calado </h1>
 
 ###
 
